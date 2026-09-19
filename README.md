@@ -1,7 +1,8 @@
+# Houdini Building Generator
 ![welcome banner](https://github.com/d0ggowo/debug-blog.jolchawa.site/blob/main/projects/building-generator-tool/welcome-banner.webp)
-**Tags:** Procedural Mesh, HLSL  
-**Software:** Houdini, Unreal Engine
-**Project Total Time:** 5 weeks total (off and on part time)
+Tags: Procedural Mesh, HLSL  
+Software: Houdini, Unreal Engine
+Project Total Time: 5 weeks total (off and on part time)
 Project is still a work in progress
 ---
 # The Problem
